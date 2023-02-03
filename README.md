@@ -3,7 +3,7 @@
 <h2>👩‍💼 About me</h2>
 <ul>
   <li>:house_with_garden: I am from <b>Raipur, Chhattisgarh</b>. </li>
-  <li>:shamrock: I am currently learning <b>:snowflake:MERN Stack</b> and <b>:brain:Data Structures & Algorithms</b>. </li>
+  <li>:shamrock: I am currently learning <b>:brain:Data Structures & Algorithms</b>. </li>
   <li>:left_speech_bubble: Talk to me about <b>Coding :desktop_computer: </b>.</li>
   <li>:e-mail: Reach out to me <a href="">twinklesahu130@gmail.com</a> </li>
   <li>:hearts: I love <b>Dancing:dancer:,  Traveling:airplane:,  Books:book:,  Food:green_salad:,  Sports:trophy:,  Coding:computer:. </li>
