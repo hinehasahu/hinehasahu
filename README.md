@@ -39,7 +39,7 @@
 <p>Drop a message — I don’t bite (unless you write inline CSS 😉).</p>
 <ul>
   <li>💌 Email: twinklesahu130@gmail.com  </li>
-  <li>🌐 Portfolio: [uploading soon]</li>
+  <li>🌐 Portfolio: https://nehasahuportfolio.netlify.app</li>
   <li>💼 LinkedIn: https://www.linkedin.com/in/neha-sahu-</li>
   <li>🧪 Dev Experiments: https://github.com/hinehasahu</li>
 </ul>
